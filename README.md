@@ -33,10 +33,10 @@ install.packages(c("sf", "ggplot2", "dplyr", "rnaturalearth", "rnaturalearthdata
 # 3. Run the script to generate the map:
 
 
-source("nigeria_geopolitical_map.R")
+# source("nigeria_geopolitical_map.R")
 
 # 4. Optionally, save the map as an image:
-ggsave("nigeria_geopolitical_map.png", map_plot, width = 10, height = 8, dpi = 300)
+# ggsave("nigeria_geopolitical_map.png", map_plot, width = 10, height = 8, dpi = 300)
 
 
 # Load libraries
