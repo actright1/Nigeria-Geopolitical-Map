@@ -1,6 +1,4 @@
 
-
-
 # Map of Nigeria with Geopolitical Zones and States
 
 **Author:** Emmanuel Adewuyi et al.  
@@ -26,18 +24,18 @@ Install the required packages if not already installed:
 ```r
 install.packages(c("sf", "ggplot2", "dplyr", "rnaturalearth", "rnaturalearthdata", "ggrepel"))
 
-Usage
+# Usage
 
-1. Clone or download this repository.
+# 1. Clone or download this repository.
 
-2. Open the script nigeria_geopolitical_map.R in R or RStudio.
+# 2. Open the script nigeria_geopolitical_map.R in R or RStudio.
 
-3. Run the script to generate the map:
+# 3. Run the script to generate the map:
 
 
 source("nigeria_geopolitical_map.R")
 
-4. Optionally, save the map as an image:
+# 4. Optionally, save the map as an image:
 ggsave("nigeria_geopolitical_map.png", map_plot, width = 10, height = 8, dpi = 300)
 
 
@@ -105,15 +103,12 @@ map_plot <- ggplot(data = nigeria) +
 # Display plot
 print(map_plot)
 
-Citation
+# Citation
 
-If using this script, please cite:
-Adewuyi, E. (2025). Nigeria Geopolitical Map (R Script). GitHub repository.
-https://github.com/actright1/Nigeria-Geopolitical-Map
+# If using this script, please cite:
+# Adewuyi, E. (2025). Nigeria Geopolitical Map (R Script). GitHub repository. https://github.com/actright1/Nigeria-Geopolitical-Map
 
-License
-
-MIT License — free to use, modify, and share with attribution.
+# License: MIT License — free to use, modify, and share with attribution.
 ---
 
 
