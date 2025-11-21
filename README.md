@@ -108,6 +108,10 @@ print(map_plot)
 # If using this script, please cite:
 # Adewuyi, E. (2025). Nigeria Geopolitical Map (R Script). GitHub repository. https://github.com/actright1/Nigeria-Geopolitical-Map
 
+# Adewuyi EO, Auta A, Omonaiye O, Adewuyi MI, Olutuase V, et al. (2025) Home birth and associated factors in Nigeria: A comparative study of rural and urban settings—Analysis of national population-based data. PLOS ONE 20(11): e0337438. https://doi.org/10.1371/journal.pone.0337438
+
+# Link to the article it was originally published: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337438
+
 # License: MIT License — free to use, modify, and share with attribution.
 ---
 
